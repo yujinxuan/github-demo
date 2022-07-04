@@ -16,5 +16,6 @@ public class GitTest {
         System.out.println("fourth change...");
         System.out.println("hello 5");
         System.out.println("master commit hello");
+        System.out.println("hot-fix commit");
     }
 }
